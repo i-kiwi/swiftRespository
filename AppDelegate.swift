@@ -1,1 +1,1 @@
-jest once test
+delete for all
